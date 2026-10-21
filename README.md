@@ -1,6 +1,6 @@
 # Nexo Intelligence — MVP de ventas
 
-Aplicación local para preparar y analizar ventas desde CSV o Excel. Incluye una página **Constructor** separada para relacionar columnas de origen, elegir los formatos de fecha y número, completar cada dato obligatorio que falte o no se pueda leer, y descargar un CSV canónico o enviarlo directamente al análisis. La página **Análisis** presenta ingresos, costes, ganancia bruta, filtros, productos y gráficos. Si no se carga un archivo, muestra datos ficticios reproducibles claramente identificados.
+Aplicación local para preparar y analizar ventas desde CSV o Excel. Incluye una página **Constructor** separada para relacionar columnas de origen "rotas" o incompletas, elegir los formatos de fecha y número, completar cada dato obligatorio que falte o no se pueda leer, y descargar un CSV canónico o enviarlo directamente al análisis. La página **Análisis** presenta ingresos, costes, ganancia bruta, filtros, productos y gráficos. Si no se carga un archivo, muestra datos ficticios reproducibles claramente identificados.
 
 ## Requisitos y ejecución
 
